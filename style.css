@@ -1,0 +1,13 @@
+.homepage.title {
+        font-family:'Courier New', Courier, monospace;
+        font-size:xx-large;
+        text-align:center;
+}
+
+.unordered-list {
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size:medium;
+        color:cadetblue;
+        text-align:center;
+        text-anchor: start;
+}
